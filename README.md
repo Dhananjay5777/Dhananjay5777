@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dhananjay digar</h1>
 <h3 align="center">A passionate cybersecurity from India</h3>
 
-<p align="left"> <img src="https://images.app.goo.gl/WgaKjBGMt26KKEXPA" alt="dhananjay5777" /> </p>
+<p align="left"> <img src="https://www.bridge-global.com/blog/wp-content/uploads/2022/01/Cyber-Security-Meaning-Significance-and-Tips-What-is-cyber-security.jpg" alt="dhananjay5777" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
